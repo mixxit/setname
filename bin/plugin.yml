@@ -1,0 +1,11 @@
+name: setname
+main: net.gamerservices.setname.setname
+version: 0.01
+
+commands:
+    setname:
+        description: Sets a players new name
+        usage: /setname accountname targetname
+    checkname:
+        description: Checks a players new name
+        usage: /checkname accountname

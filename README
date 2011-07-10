@@ -1,0 +1,4 @@
+Usage:
+
+/setname accountname newname - sets a new name (1 word only)
+/checkname accountname - returns account name
